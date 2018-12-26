@@ -81,8 +81,11 @@ This will get you consumer console and show all messages related to topic.
 Hello World using CLI is completed.
 
 ## Hello World using Java Client
-### Producer
+### Project
 Create a project named [HelloKafka](https://github.com/contactsharmamohit/HelloKafka/tree/master/HelloKafka) in Eclipse and import files.
+Add all JARs present in `<Extracted-Kafka-Path>\kafka_2.12-2.1.0\libs` to build path of the project.
+
+### Producer
 [MyProducer.java](https://github.com/contactsharmamohit/HelloKafka/blob/master/HelloKafka/src/hello/kafka/MyProducer.java) is the Source for Kafka Producer client implementation in Java.
 Run the code and enter Topic name created in above steps and add a message. The message will be available in both CLI and Java Consumer.
 Refer below illustration for reference.
