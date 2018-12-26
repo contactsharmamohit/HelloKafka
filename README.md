@@ -106,6 +106,6 @@ Execute below commands in `<Extracted-Kafka-Path>\kafka_2.12-2.1.0\`
 bin\windows\kafka-server-stop.bat config/server.properties
 bin\windows\zookeeper-server-stop.bat config/zookeeper.properties
 ```
-Please note that we are first stopping Kafka and then Zookeeper and Kafka is managed by Zookeeper hence it should be stopped before Zookeeper.
+Please note that we are first stopping Kafka and then Zookeeper as Kafka is managed by Zookeeper hence it should be stopped before Zookeeper.
 
 ![StoppingZookeperAndKafka](https://raw.githubusercontent.com/contactsharmamohit/HelloKafka/master/Illustrations/StoppingZookeperAndKafka.JPG)
