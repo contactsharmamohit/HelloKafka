@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
 
-remote_theme: chesterhow/tale
+theme: jekyll-theme-leap-day
