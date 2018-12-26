@@ -93,6 +93,7 @@ Refer below illustration for reference.
 [MyConsumer.java](https://github.com/contactsharmamohit/HelloKafka/blob/master/HelloKafka/src/hello/kafka/MyConsumer.java) is the Source for Kafka Consumer client implementation in Java.
 Run the code and enter Topic name. The Consumer will now show all the messages related to the Topic from Kafka.
 Refer below illustration for reference.
+
 ![ConsumerConsoleJava](https://raw.githubusercontent.com/contactsharmamohit/HelloKafka/master/Illustrations/ConsumerConsoleJava.JPG)
 
 Hello World using Java is completed.
