@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
 
-remote_theme: rohanchandra/type-theme
+remote_theme: swanson/lagom
