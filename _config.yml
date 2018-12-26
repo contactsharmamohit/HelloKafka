@@ -6,4 +6,4 @@ relative_links:
 include:
   - README.md
 
-remote_theme: swanson/lagom
+remote_theme: chesterhow/tale
